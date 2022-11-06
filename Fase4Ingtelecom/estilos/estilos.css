@@ -14,11 +14,11 @@ header{
 }
 aside{
     grid-column: 1/2;
-    background-color: rgb(104, 104, 145);
+    background-color: rgb(230, 230, 247);
 }
 section{
     grid-column: 2/5;
-    background-color: rgb(155, 155, 189);
+    background-color: rgb(225, 225, 245);
 }
 footer{
     text-align: center;
@@ -80,3 +80,9 @@ nav ul{
 	width:33%;
     }
 }
+
+/* cambiar funte de texto*/
+article{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
